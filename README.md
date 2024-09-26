@@ -19,6 +19,3 @@
 
 - [Hydrofoil design](pdfs/design_construction.pdf)  
 
-
-## Control system
-- STM32F103C8T6 + MPU6050
